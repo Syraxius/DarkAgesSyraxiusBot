@@ -8,11 +8,13 @@ Disclaimer and notes:
 
 Features:
 - Automatic hunting for assail-based classes (Warrior, Monk) and spell-based classes (Wizard).
+- Extremely stable. Got my Warrior and Wizard from level 1 to 65 within 5 days in Crypt 1-1 to Crypt 3-1.
 - Accurate spell-casting even on enemies behind walls.
 - Rest when HP or MP is below threshold (set `mp_low`, `hp_low`, `mp_high`, `hp_high`).
 - Maintain minimum distance from nearest enemy (set `run_start_dist`, `run_stop_dist`).
-- Intelligent Pathfinding to choose the safest possible route to walk when enemies are near.
-- Extremely stable. Got my Warrior and Wizard from level 1 to 65 within 5 days in Crypt 1-1 to Crypt 3-1.
+- Intelligent Pathfinding to choose the safest possible route when enemies are near.
+- Patrol maps to search for monsters when hunting.
+- Travel between maps when resting and hunting.
 
 Installation (for Windows):
 - Clone this repository (or download this repository and extract it somewhere)
